@@ -1,4 +1,4 @@
-# C++ Rate Limiter
+# ElCruzo's Rate Limiter
 
 A simple rate limiter implemented in C++ using a token bucket algorithm. This rate limiter allows you to control the rate at which requests are allowed based on a specified rate and burst size.
 

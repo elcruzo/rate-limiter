@@ -60,5 +60,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me at ayomideadekoya266@gmail.com.
-
-```
